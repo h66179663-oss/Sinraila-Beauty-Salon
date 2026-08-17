@@ -1,0 +1,6 @@
+{
+  "name": "Sinraila Beauty Salon",
+  "description": "Professional beauty and salon services in Banda, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
